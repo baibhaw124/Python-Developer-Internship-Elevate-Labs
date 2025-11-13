@@ -25,14 +25,6 @@ The application runs inside a terminal and takes continuous input until the user
 │   ├── code_screenshot.png
 │   └── output_screenshot.png
 
-▶️ How to Run the Program
-Step 1: Clone or download
-git clone <https://github.com/baibhaw124/Python-Developer-Internship-Elevate-Labs-Task1/edit/main/README.md>
-cd ElevateLabs_Task1_Calculator
-
-Step 2: Run
-python calculator.py
-
 📘 Concepts Used
 Functions
 Loops
@@ -48,9 +40,6 @@ CLI-based interaction
 [Output Screenshot1](output.png)
 [Output Screenshot2](output1.png)
 [Output Screenshot3](output2.png)
-
-📘code file
-[Code file](calculator.py)
 
 📚 Additional Notes
 This task helped reinforce:
