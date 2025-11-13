@@ -35,8 +35,8 @@ CLI-based interaction
 
 🖼 Screenshots
 Add these into your README after uploading:
-[Code Screenshot](code1.png)
-[Output Screenshot](output.png)
+[Code Screenshot](code1.png,code2.png,code3.png)
+[Output Screenshot](output.png,output1.png,output2.png)
 
 📚 Additional Notes
 This task helped reinforce:
